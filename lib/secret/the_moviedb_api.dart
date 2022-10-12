@@ -1,0 +1,3 @@
+const String themoviedbApi = "0a36c63ca3e0ad05feda375007bd8686";
+const String themoviedbBearer =
+    "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYTM2YzYzY2EzZTBhZDA1ZmVkYTM3NTAwN2JkODY4NiIsInN1YiI6IjYzM2Y4YzhiMDg1OWI0MDA3OTU3OGMyZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.wGTpvejIRc6eDQRdZBO_Ok2wubMRDzUy5Jy9Xk92B-Y";
